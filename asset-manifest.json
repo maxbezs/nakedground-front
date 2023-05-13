@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/nakedground-front/static/css/main.ef25d924.css",
+    "main.js": "/nakedground-front/static/js/main.be624e6a.js",
+    "static/media/4.jpg": "/nakedground-front/static/media/4.337a78ec4134d00bfb06.jpg",
+    "static/media/5.jpg": "/nakedground-front/static/media/5.d811e4fbd78703df0d5a.jpg",
+    "static/media/3.jpg": "/nakedground-front/static/media/3.641aa46d7c82a2f2d895.jpg",
+    "static/media/img22.jpg": "/nakedground-front/static/media/img22.c91c048af33c8aaf3ab9.jpg",
+    "static/media/1.jpg": "/nakedground-front/static/media/1.699810454a717dfc7296.jpg",
+    "static/media/2.jpg": "/nakedground-front/static/media/2.ba3ae6dffc782de21b7a.jpg",
+    "static/media/Archivo-Regular.ttf": "/nakedground-front/static/media/Archivo-Regular.0d9de85f605c2178d907.ttf",
+    "static/media/ArchivoBlack-Regular.ttf": "/nakedground-front/static/media/ArchivoBlack-Regular.e35d38651492de9e7226.ttf",
+    "static/media/IMG_4369.jpg": "/nakedground-front/static/media/IMG_4369.e33621091cf71484eb08.jpg",
+    "static/media/Apercu Regular.otf": "/nakedground-front/static/media/Apercu Regular.83b693d3141cb9dd1538.otf",
+    "static/media/IMG_4363.jpg": "/nakedground-front/static/media/IMG_4363.e6e59eadc339739ef3f7.jpg",
+    "static/media/IMG_4368.jpg": "/nakedground-front/static/media/IMG_4368.9a13172e7d3b8f2dac9a.jpg",
+    "static/media/Artifact.otf": "/nakedground-front/static/media/Artifact.b9d11a1ba23d2e7e907d.otf",
+    "static/media/coffeeshopbags_large.jpg": "/nakedground-front/static/media/coffeeshopbags_large.d366c720961a6198d4e2.jpg",
+    "static/media/coffeeshoppods.jpg": "/nakedground-front/static/media/coffeeshoppods.a9ddbb8be240c23cfd58.jpg",
+    "static/media/coffeetinshop_large.jpg": "/nakedground-front/static/media/coffeetinshop_large.74b742db7dd2c01b15a9.jpg",
+    "static/media/IMG_4365.jpg": "/nakedground-front/static/media/IMG_4365.1853ed72e3fcb7779876.jpg",
+    "static/media/instagram.svg": "/nakedground-front/static/media/instagram.ad1b89d2daaef35358a5c4dbd863355e.svg",
+    "static/media/tiktok.svg": "/nakedground-front/static/media/tiktok.2efc420b1b4d7dfb9b14c1924391cfab.svg",
+    "static/media/youtube.svg": "/nakedground-front/static/media/youtube.c9caaaa401dacb31c2e94da932406183.svg",
+    "static/media/facebook.svg": "/nakedground-front/static/media/facebook.fd9cde7c1f39a5f97341772728b801d0.svg",
+    "index.html": "/nakedground-front/index.html",
+    "static/media/account.svg": "/nakedground-front/static/media/account.5eaefe96eb3d9f2fdd0a9ab9f704a5a7.svg",
+    "static/media/arrow.svg": "/nakedground-front/static/media/arrow.cf928cd9f98b9c4f470d5133635e7489.svg",
+    "main.ef25d924.css.map": "/nakedground-front/static/css/main.ef25d924.css.map",
+    "main.be624e6a.js.map": "/nakedground-front/static/js/main.be624e6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef25d924.css",
+    "static/js/main.be624e6a.js"
+  ]
+}
