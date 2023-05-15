@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.c96d7cd5.css",
-    "main.js": "/static/js/main.47b648d3.js",
+    "main.css": "/static/css/main.cca5b62a.css",
+    "main.js": "/static/js/main.a928f03b.js",
     "static/media/4.jpg": "/static/media/4.337a78ec4134d00bfb06.jpg",
     "static/media/5.jpg": "/static/media/5.d811e4fbd78703df0d5a.jpg",
+    "static/media/bean-back.jpg": "/static/media/bean-back.1c4dd7254b035fa9fdda.jpg",
     "static/media/3.jpg": "/static/media/3.641aa46d7c82a2f2d895.jpg",
+    "static/media/coffee-back.jpg": "/static/media/coffee-back.906d47622a3a8eba8b3c.jpg",
     "static/media/img22.jpg": "/static/media/img22.c91c048af33c8aaf3ab9.jpg",
     "static/media/1.jpg": "/static/media/1.699810454a717dfc7296.jpg",
     "static/media/2.jpg": "/static/media/2.ba3ae6dffc782de21b7a.jpg",
@@ -13,6 +15,7 @@
     "static/media/IMG_4369.jpg": "/static/media/IMG_4369.e33621091cf71484eb08.jpg",
     "static/media/Apercu Regular.otf": "/static/media/Apercu Regular.83b693d3141cb9dd1538.otf",
     "static/media/IMG_4363.jpg": "/static/media/IMG_4363.e6e59eadc339739ef3f7.jpg",
+    "static/media/the-best.png": "/static/media/the-best.2f9345731e4ea9216e0a.png",
     "static/media/IMG_4368.jpg": "/static/media/IMG_4368.9a13172e7d3b8f2dac9a.jpg",
     "static/media/Artifact.otf": "/static/media/Artifact.b9d11a1ba23d2e7e907d.otf",
     "static/media/coffeeshopbags_large.jpg": "/static/media/coffeeshopbags_large.d366c720961a6198d4e2.jpg",
@@ -26,11 +29,11 @@
     "index.html": "/index.html",
     "static/media/account.svg": "/static/media/account.5eaefe96eb3d9f2fdd0a9ab9f704a5a7.svg",
     "static/media/arrow.svg": "/static/media/arrow.cf928cd9f98b9c4f470d5133635e7489.svg",
-    "main.c96d7cd5.css.map": "/static/css/main.c96d7cd5.css.map",
-    "main.47b648d3.js.map": "/static/js/main.47b648d3.js.map"
+    "main.cca5b62a.css.map": "/static/css/main.cca5b62a.css.map",
+    "main.a928f03b.js.map": "/static/js/main.a928f03b.js.map"
   },
   "entrypoints": [
-    "static/css/main.c96d7cd5.css",
-    "static/js/main.47b648d3.js"
+    "static/css/main.cca5b62a.css",
+    "static/js/main.a928f03b.js"
   ]
 }
