@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.05fb1719.css",
-    "main.js": "/static/js/main.538196d8.js",
+    "main.css": "/static/css/main.04b7d4a7.css",
+    "main.js": "/static/js/main.899218e8.js",
     "static/media/4.jpg": "/static/media/4.337a78ec4134d00bfb06.jpg",
     "static/media/5.jpg": "/static/media/5.d811e4fbd78703df0d5a.jpg",
     "static/media/bean-back.jpg": "/static/media/bean-back.1c4dd7254b035fa9fdda.jpg",
     "static/media/3.jpg": "/static/media/3.641aa46d7c82a2f2d895.jpg",
     "static/media/coffee-back.jpg": "/static/media/coffee-back.906d47622a3a8eba8b3c.jpg",
     "static/media/img22.jpg": "/static/media/img22.c91c048af33c8aaf3ab9.jpg",
+    "static/media/houses-back.jpg": "/static/media/houses-back.cf02a4b98be5be407520.jpg",
     "static/media/1.jpg": "/static/media/1.699810454a717dfc7296.jpg",
     "static/media/2.jpg": "/static/media/2.ba3ae6dffc782de21b7a.jpg",
+    "static/media/info-3.jpg": "/static/media/info-3.fbf56fda1be2a02e508c.jpg",
+    "static/media/info-2.jpg": "/static/media/info-2.a1c948d04aeb217ff045.jpg",
+    "static/media/info-1.jpg": "/static/media/info-1.2d0b7c45c499605d4cf8.jpg",
     "static/media/Archivo-Regular.ttf": "/static/media/Archivo-Regular.0d9de85f605c2178d907.ttf",
     "static/media/ArchivoBlack-Regular.ttf": "/static/media/ArchivoBlack-Regular.e35d38651492de9e7226.ttf",
     "static/media/IMG_4369.jpg": "/static/media/IMG_4369.e33621091cf71484eb08.jpg",
@@ -21,6 +25,7 @@
     "static/media/coffeeshopbags_large.jpg": "/static/media/coffeeshopbags_large.d366c720961a6198d4e2.jpg",
     "static/media/coffeeshoppods.jpg": "/static/media/coffeeshoppods.a9ddbb8be240c23cfd58.jpg",
     "static/media/coffeetinshop_large.jpg": "/static/media/coffeetinshop_large.74b742db7dd2c01b15a9.jpg",
+    "static/media/Lemon.png": "/static/media/Lemon.2b8bac9f511c08e2c798.png",
     "static/media/IMG_4365.jpg": "/static/media/IMG_4365.1853ed72e3fcb7779876.jpg",
     "static/media/instagram.svg": "/static/media/instagram.ad1b89d2daaef35358a5c4dbd863355e.svg",
     "static/media/tiktok.svg": "/static/media/tiktok.2efc420b1b4d7dfb9b14c1924391cfab.svg",
@@ -29,11 +34,11 @@
     "index.html": "/index.html",
     "static/media/account.svg": "/static/media/account.5eaefe96eb3d9f2fdd0a9ab9f704a5a7.svg",
     "static/media/arrow.svg": "/static/media/arrow.cf928cd9f98b9c4f470d5133635e7489.svg",
-    "main.05fb1719.css.map": "/static/css/main.05fb1719.css.map",
-    "main.538196d8.js.map": "/static/js/main.538196d8.js.map"
+    "main.04b7d4a7.css.map": "/static/css/main.04b7d4a7.css.map",
+    "main.899218e8.js.map": "/static/js/main.899218e8.js.map"
   },
   "entrypoints": [
-    "static/css/main.05fb1719.css",
-    "static/js/main.538196d8.js"
+    "static/css/main.04b7d4a7.css",
+    "static/js/main.899218e8.js"
   ]
 }
