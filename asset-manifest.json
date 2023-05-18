@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.33b462a0.css",
-    "main.js": "/static/js/main.78d1a08d.js",
+    "main.css": "/static/css/main.c14f50a6.css",
+    "main.js": "/static/js/main.51215139.js",
     "static/media/bean-back-upside-down.jpg": "/static/media/bean-back-upside-down.44b8a414aa45f83c8a76.jpg",
     "static/media/4.jpg": "/static/media/4.337a78ec4134d00bfb06.jpg",
     "static/media/5.jpg": "/static/media/5.d811e4fbd78703df0d5a.jpg",
@@ -39,11 +39,11 @@
     "index.html": "/index.html",
     "static/media/account.svg": "/static/media/account.5eaefe96eb3d9f2fdd0a9ab9f704a5a7.svg",
     "static/media/arrow.svg": "/static/media/arrow.cf928cd9f98b9c4f470d5133635e7489.svg",
-    "main.33b462a0.css.map": "/static/css/main.33b462a0.css.map",
-    "main.78d1a08d.js.map": "/static/js/main.78d1a08d.js.map"
+    "main.c14f50a6.css.map": "/static/css/main.c14f50a6.css.map",
+    "main.51215139.js.map": "/static/js/main.51215139.js.map"
   },
   "entrypoints": [
-    "static/css/main.33b462a0.css",
-    "static/js/main.78d1a08d.js"
+    "static/css/main.c14f50a6.css",
+    "static/js/main.51215139.js"
   ]
 }
