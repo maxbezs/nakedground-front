@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.83ea7955.css",
-    "main.js": "/static/js/main.223ffc6c.js",
+    "main.css": "/static/css/main.7b655cf7.css",
+    "main.js": "/static/js/main.78d1a08d.js",
     "static/media/bean-back-upside-down.jpg": "/static/media/bean-back-upside-down.44b8a414aa45f83c8a76.jpg",
     "static/media/4.jpg": "/static/media/4.337a78ec4134d00bfb06.jpg",
     "static/media/5.jpg": "/static/media/5.d811e4fbd78703df0d5a.jpg",
@@ -27,8 +27,11 @@
     "static/media/coffeeshopbags_large.jpg": "/static/media/coffeeshopbags_large.d366c720961a6198d4e2.jpg",
     "static/media/coffeeshoppods.jpg": "/static/media/coffeeshoppods.a9ddbb8be240c23cfd58.jpg",
     "static/media/coffeetinshop_large.jpg": "/static/media/coffeetinshop_large.74b742db7dd2c01b15a9.jpg",
+    "static/media/review2.png": "/static/media/review2.ce2c933b761925c7b3d4.png",
     "static/media/Lemon.png": "/static/media/Lemon.2b8bac9f511c08e2c798.png",
+    "static/media/review1.png": "/static/media/review1.fd54da1033966528ae75.png",
     "static/media/IMG_4365.jpg": "/static/media/IMG_4365.1853ed72e3fcb7779876.jpg",
+    "static/media/review3.png": "/static/media/review3.596cf01bd62cc3dc4bc0.png",
     "static/media/instagram.svg": "/static/media/instagram.ad1b89d2daaef35358a5c4dbd863355e.svg",
     "static/media/tiktok.svg": "/static/media/tiktok.2efc420b1b4d7dfb9b14c1924391cfab.svg",
     "static/media/youtube.svg": "/static/media/youtube.c9caaaa401dacb31c2e94da932406183.svg",
@@ -36,11 +39,11 @@
     "index.html": "/index.html",
     "static/media/account.svg": "/static/media/account.5eaefe96eb3d9f2fdd0a9ab9f704a5a7.svg",
     "static/media/arrow.svg": "/static/media/arrow.cf928cd9f98b9c4f470d5133635e7489.svg",
-    "main.83ea7955.css.map": "/static/css/main.83ea7955.css.map",
-    "main.223ffc6c.js.map": "/static/js/main.223ffc6c.js.map"
+    "main.7b655cf7.css.map": "/static/css/main.7b655cf7.css.map",
+    "main.78d1a08d.js.map": "/static/js/main.78d1a08d.js.map"
   },
   "entrypoints": [
-    "static/css/main.83ea7955.css",
-    "static/js/main.223ffc6c.js"
+    "static/css/main.7b655cf7.css",
+    "static/js/main.78d1a08d.js"
   ]
 }
