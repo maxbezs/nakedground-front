@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.49746bc2.css",
-    "main.js": "/static/js/main.9f3566e8.js",
+    "main.css": "/static/css/main.e15f40b5.css",
+    "main.js": "/static/js/main.9b34a1dc.js",
     "static/media/menu.pdf": "/static/media/menu.f0890abd642f76287f0f.pdf",
-    "static/media/bean-back-upside-down.jpg": "/static/media/bean-back-upside-down.44b8a414aa45f83c8a76.jpg",
     "static/media/4.jpg": "/static/media/4.337a78ec4134d00bfb06.jpg",
     "static/media/5.jpg": "/static/media/5.d811e4fbd78703df0d5a.jpg",
     "static/media/bean-back.jpg": "/static/media/bean-back.1c4dd7254b035fa9fdda.jpg",
     "static/media/3.jpg": "/static/media/3.641aa46d7c82a2f2d895.jpg",
     "static/media/img22.jpg": "/static/media/img22.c91c048af33c8aaf3ab9.jpg",
+    "static/media/coffee-background.png": "/static/media/coffee-background.f5d1b237bfeca9374b84.png",
     "static/media/ams-back.jpg": "/static/media/ams-back.1aba9ab732f38e64a2a6.jpg",
     "static/media/houses-back.jpg": "/static/media/houses-back.cf02a4b98be5be407520.jpg",
     "static/media/info-3.png": "/static/media/info-3.68efb26a3e43fc7549bc.png",
@@ -21,7 +21,9 @@
     "static/media/2.jpg": "/static/media/2.ba3ae6dffc782de21b7a.jpg",
     "static/media/left-images.png": "/static/media/left-images.510a4f0a612ce65e1c95.png",
     "static/media/menu-uk-3.png": "/static/media/menu-uk-3.38a93814ca96d49f9dbd.png",
+    "static/media/menu-left.png": "/static/media/menu-left.96704b8fc3ea6c9ec33c.png",
     "static/media/map-img.png": "/static/media/map-img.534d7b3930295eddcbda.png",
+    "static/media/menu-right.png": "/static/media/menu-right.6205a0392aed1a83d941.png",
     "static/media/Archivo-Regular.ttf": "/static/media/Archivo-Regular.0d9de85f605c2178d907.ttf",
     "static/media/ArchivoBlack-Regular.ttf": "/static/media/ArchivoBlack-Regular.e35d38651492de9e7226.ttf",
     "static/media/IMG_4369.jpg": "/static/media/IMG_4369.e33621091cf71484eb08.jpg",
@@ -49,11 +51,11 @@
     "static/media/account.svg": "/static/media/account.5eaefe96eb3d9f2fdd0a9ab9f704a5a7.svg",
     "static/media/accountB.svg": "/static/media/accountB.89068b547eb0bd4ac293f0b97665dc3e.svg",
     "static/media/arrow.svg": "/static/media/arrow.cf928cd9f98b9c4f470d5133635e7489.svg",
-    "main.49746bc2.css.map": "/static/css/main.49746bc2.css.map",
-    "main.9f3566e8.js.map": "/static/js/main.9f3566e8.js.map"
+    "main.e15f40b5.css.map": "/static/css/main.e15f40b5.css.map",
+    "main.9b34a1dc.js.map": "/static/js/main.9b34a1dc.js.map"
   },
   "entrypoints": [
-    "static/css/main.49746bc2.css",
-    "static/js/main.9f3566e8.js"
+    "static/css/main.e15f40b5.css",
+    "static/js/main.9b34a1dc.js"
   ]
 }
