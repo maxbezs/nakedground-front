@@ -1,9 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1a18d90b.css",
-    "main.js": "/static/js/main.cc462347.js",
-    "static/media/COFFEE-video.mp4": "/static/media/COFFEE-video.e5c9f20a87f0a9269e40.mp4",
-    "static/media/NG-video.mp4": "/static/media/NG-video.31c86a8e050505ee249a.mp4",
+    "main.css": "/static/css/main.3d46c9ef.css",
+    "main.js": "/static/js/main.9f3566e8.js",
     "static/media/menu.pdf": "/static/media/menu.f0890abd642f76287f0f.pdf",
     "static/media/bean-back-upside-down.jpg": "/static/media/bean-back-upside-down.44b8a414aa45f83c8a76.jpg",
     "static/media/4.jpg": "/static/media/4.337a78ec4134d00bfb06.jpg",
@@ -36,13 +34,13 @@
     "static/media/Artifact.otf": "/static/media/Artifact.b9d11a1ba23d2e7e907d.otf",
     "static/media/coffeeshopbags_large.jpg": "/static/media/coffeeshopbags_large.d366c720961a6198d4e2.jpg",
     "static/media/coffeeshoppods.jpg": "/static/media/coffeeshoppods.a9ddbb8be240c23cfd58.jpg",
+    "static/media/MoreThanCoffeeLemon.png": "/static/media/MoreThanCoffeeLemon.1814f5bdbbae2240baa5.png",
     "static/media/coffeetinshop_large.jpg": "/static/media/coffeetinshop_large.74b742db7dd2c01b15a9.jpg",
     "static/media/review2.png": "/static/media/review2.ce2c933b761925c7b3d4.png",
     "static/media/Lemon.png": "/static/media/Lemon.2b8bac9f511c08e2c798.png",
     "static/media/review1.png": "/static/media/review1.fd54da1033966528ae75.png",
     "static/media/IMG_4365.jpg": "/static/media/IMG_4365.1853ed72e3fcb7779876.jpg",
     "static/media/review3.png": "/static/media/review3.596cf01bd62cc3dc4bc0.png",
-    "static/media/tripadvisor-widget.png": "/static/media/tripadvisor-widget.411d81b439998031d8a5.png",
     "static/media/instagram.svg": "/static/media/instagram.ad1b89d2daaef35358a5c4dbd863355e.svg",
     "static/media/tiktok.svg": "/static/media/tiktok.2efc420b1b4d7dfb9b14c1924391cfab.svg",
     "static/media/youtube.svg": "/static/media/youtube.c9caaaa401dacb31c2e94da932406183.svg",
@@ -51,11 +49,11 @@
     "static/media/account.svg": "/static/media/account.5eaefe96eb3d9f2fdd0a9ab9f704a5a7.svg",
     "static/media/accountB.svg": "/static/media/accountB.89068b547eb0bd4ac293f0b97665dc3e.svg",
     "static/media/arrow.svg": "/static/media/arrow.cf928cd9f98b9c4f470d5133635e7489.svg",
-    "main.1a18d90b.css.map": "/static/css/main.1a18d90b.css.map",
-    "main.cc462347.js.map": "/static/js/main.cc462347.js.map"
+    "main.3d46c9ef.css.map": "/static/css/main.3d46c9ef.css.map",
+    "main.9f3566e8.js.map": "/static/js/main.9f3566e8.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a18d90b.css",
-    "static/js/main.cc462347.js"
+    "static/css/main.3d46c9ef.css",
+    "static/js/main.9f3566e8.js"
   ]
 }
