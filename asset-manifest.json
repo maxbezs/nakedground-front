@@ -1,13 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.c0ca5079.css",
-    "main.js": "/static/js/main.bcf690b6.js",
-    "static/media/menu.pdf": "/static/media/menu.f0890abd642f76287f0f.pdf",
+    "main.js": "/static/js/main.fd2c7163.js",
+    "static/media/NAKEDGROUND-Food-ENG.pdf": "/static/media/NAKEDGROUND-Food-ENG.9e6ce490d01de298461d.pdf",
+    "static/media/NAKEDGROUND-Comidas-ESP.pdf": "/static/media/NAKEDGROUND-Comidas-ESP.44528268a242a96d370e.pdf",
     "static/media/4.jpg": "/static/media/4.337a78ec4134d00bfb06.jpg",
     "static/media/5.jpg": "/static/media/5.d811e4fbd78703df0d5a.jpg",
     "static/media/bean-back.jpg": "/static/media/bean-back.1c4dd7254b035fa9fdda.jpg",
     "static/media/3.jpg": "/static/media/3.641aa46d7c82a2f2d895.jpg",
     "static/media/img22.jpg": "/static/media/img22.c91c048af33c8aaf3ab9.jpg",
+    "static/media/NAKEDGROUND-Drinks-ENG.pdf": "/static/media/NAKEDGROUND-Drinks-ENG.996425ac961f8b8a1c19.pdf",
+    "static/media/NAKEDGROUND-Bebidas-ESP.pdf": "/static/media/NAKEDGROUND-Bebidas-ESP.73603c7c9fe3ab682907.pdf",
     "static/media/coffee-background.png": "/static/media/coffee-background.f5d1b237bfeca9374b84.png",
     "static/media/ams-back.jpg": "/static/media/ams-back.1aba9ab732f38e64a2a6.jpg",
     "static/media/houses-back.jpg": "/static/media/houses-back.cf02a4b98be5be407520.jpg",
@@ -54,10 +57,10 @@
     "static/media/country-ES.svg": "/static/media/country-ES.31d961e1ad8c8a8f3a916fe8a70330ee.svg",
     "static/media/arrow.svg": "/static/media/arrow.cf928cd9f98b9c4f470d5133635e7489.svg",
     "main.c0ca5079.css.map": "/static/css/main.c0ca5079.css.map",
-    "main.bcf690b6.js.map": "/static/js/main.bcf690b6.js.map"
+    "main.fd2c7163.js.map": "/static/js/main.fd2c7163.js.map"
   },
   "entrypoints": [
     "static/css/main.c0ca5079.css",
-    "static/js/main.bcf690b6.js"
+    "static/js/main.fd2c7163.js"
   ]
 }
