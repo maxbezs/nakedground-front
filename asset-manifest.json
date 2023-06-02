@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c0ca5079.css",
-    "main.js": "/static/js/main.01f6ae8d.js",
+    "main.js": "/static/js/main.3fb701f1.js",
     "static/media/NAKEDGROUND-Food-ENG.pdf": "/static/media/NAKEDGROUND-Food-ENG.9e6ce490d01de298461d.pdf",
     "static/media/NAKEDGROUND-Comidas-ESP.pdf": "/static/media/NAKEDGROUND-Comidas-ESP.44528268a242a96d370e.pdf",
     "static/media/4.jpg": "/static/media/4.337a78ec4134d00bfb06.jpg",
@@ -57,10 +57,10 @@
     "static/media/country-ES.svg": "/static/media/country-ES.31d961e1ad8c8a8f3a916fe8a70330ee.svg",
     "static/media/arrow.svg": "/static/media/arrow.cf928cd9f98b9c4f470d5133635e7489.svg",
     "main.c0ca5079.css.map": "/static/css/main.c0ca5079.css.map",
-    "main.01f6ae8d.js.map": "/static/js/main.01f6ae8d.js.map"
+    "main.3fb701f1.js.map": "/static/js/main.3fb701f1.js.map"
   },
   "entrypoints": [
     "static/css/main.c0ca5079.css",
-    "static/js/main.01f6ae8d.js"
+    "static/js/main.3fb701f1.js"
   ]
 }
